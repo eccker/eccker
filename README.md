@@ -15,4 +15,4 @@
 
 [ Support me through XRP: rLSn6Z3T8uCxbcd1oxwfGQN1Fdn5CyGujK   32083544 ]
 
-[ Support me through opensea.io's NFTs: https://opensea.io/rekcce ]
+[ Support me by buying my NFTs: https://opensea.io/rekcce ]
