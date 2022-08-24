@@ -1,9 +1,9 @@
 ### 👋 Hi, I’m @eccker (Rekcce)
 - 👀 I’m interested in DSP, Data Processing, Machine Learning, Computer Vision, Blockchain
 - 🌱 I’m learning javascript, nodejs, wasm, node-jose, JWT,JWK, JWS,JWE, Solidity, ethers.js 
-- 🧑‍💻 Currently working as a Fullstack Blockchain Engineer with Solidity, Hardhat, ethers.js for several DeFi projects.
+- 🧑‍💻 Currently working as a Fullstack Blockchain Engineer with Solidity, Hardhat, ethers.js for several DeFi projects. 
 - 💞️ I reseach generative, collaborative and interactive mixed media/multimedia art
-- ⚡ Quick facts: I studied electronics engineering and I am in love with multimedia art.
+- ⚡ Quick facts: I studied electronics engineering, I am in love with multimedia art and most of my contributions are to private repositories.
 - 📫 You can reach me at twitter @eccker
 
 [ Support me on Patreon: https://www.patreon.com/cosmicvisionary ]
